@@ -80,16 +80,10 @@ You will not automatically receive feedback on your work. If you would like feed
 
 1. There will be an online Helpdesk during weeks 8 and 9 of Lent Term, and during weeks 0 and 1 of Easter term. For exact dates and times, check the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011).
 
-1. There is a discussion forum on the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011). Please help out by answering questions on the forum. Helping each other is encouraged - if you receive help make sure that you do understand what you have done.  If you need help or have questions, please visit a Helpdesk or post your question on the forum (rather than emailing me directly). 
+1. There is a discussion forum on the [Moodle site](https://www.vle.cam.ac.uk/course/view.php?id=174011). Please help out by answering questions on the forum. Helping each other is encouraged - if you receive help make sure that you do understand what you have done.  If you need help or have questions, please visit a Helpdesk or post your question on the forum. 
 
 <br>
 
-### Feedback
-
-We would love to hear your feedback about the coursework. Please send your comments to Dr Ramji Venkataramanan (rv285@cam.ac.uk). 
-
-
-<br>
 
 ### Acknowledgements
 
@@ -101,6 +95,7 @@ Many thanks to Talay Cheema, Sumeetpal Singh, and Garth Wells for helping design
 ### License and copyright
 
 All material is copyright of Ramji Venkataramanan (rv285@cam.ac.uk).
+Minor updates by George Cantwell (gtc31@cam.ac.uk).
 
 All text is made available under the Creative Commons Attribution-ShareAlike 4.0 International Public License (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
